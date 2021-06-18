@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"learning";
+cout<<"learning with am"<<endl;
 return 0;
 }
